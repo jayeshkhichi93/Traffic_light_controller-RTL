@@ -40,5 +40,6 @@ Time=181 | ns_light=001 | ew_light=100
 tlc_tb.v:14: $finish called at 202 (1s)
 
 🌊 Waveform (GTKWave):-
-<img width="1917" height="262" alt="image" src="https://github.com/user-attachments/assets/3eb5adab-777c-47b3-9e00-e2d1f64adef9" />
+
+<img width="1897" height="235" alt="image" src="https://github.com/user-attachments/assets/82001ea5-dc0f-4284-a2ab-e733ec41c579" />
 
